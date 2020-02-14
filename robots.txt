@@ -1,0 +1,10 @@
+User-Agent: *
+Allow: index.php
+Disallow: /css
+Disallow: /contactform
+Disallow: /img
+Disallow: /js
+Disallow: /dependencias
+Disallow: /lib
+
+Sitemap: https://integrador-technology.mx/sitemap-location.xml
