@@ -1,5 +1,5 @@
 User-Agent: *
-Allow: index.html
+Allow: /*.index.html$
 Disallow: /css
 Disallow: /contactform
 Disallow: /img
