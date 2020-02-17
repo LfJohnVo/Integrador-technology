@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16a6493f-e05d-441d-bb40-32d450e3c927" name="Default Changelist" comment="" />
+    <list default="true" id="16a6493f-e05d-441d-bb40-32d450e3c927" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +72,7 @@
       <workItem from="1581625997169" duration="1471000" />
       <workItem from="1581695506016" duration="3110000" />
       <workItem from="1581976764413" duration="237000" />
-      <workItem from="1581977745854" duration="285000" />
+      <workItem from="1581977745854" duration="389000" />
     </task>
     <servers />
   </component>
