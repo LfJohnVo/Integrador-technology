@@ -465,15 +465,6 @@ Disallow: /*?orderby=popularity
 Disallow: /*?filter
 Disallow: /add-to-cart=
 
-# Avoid crawler traps causing crawl budget issues
-
-Disallow: /search/
-Disallow: ?s=
-Disallow: ?p=
-Disallow: &p=
-Disallow: &preview=
-Disallow: /search
-
 # Social Media Crawling
 
 User-agent: facebookexternalhit/1.0
