@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16a6493f-e05d-441d-bb40-32d450e3c927" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +76,12 @@
       <workItem from="1581976764413" duration="237000" />
       <workItem from="1581977745854" duration="2997000" />
       <workItem from="1582645643655" duration="1280000" />
-      <workItem from="1582646953979" duration="460000" />
+      <workItem from="1582646953979" duration="575000" />
+      <workItem from="1582842911521" duration="687000" />
+      <workItem from="1582922792579" duration="397000" />
+      <workItem from="1582923687832" duration="17000" />
+      <workItem from="1583253649088" duration="630000" />
+      <workItem from="1583345232075" duration="454000" />
     </task>
     <servers />
   </component>
@@ -82,9 +89,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1581980537447">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1582923703058">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581980537447" />
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582923703058" />
   </component>
 </project>

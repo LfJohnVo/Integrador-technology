@@ -77,15 +77,6 @@
              RewriteRule .*$ forbidden
 
 
-
-
-  #Options +FollowSymlinks
-  #Protect against hotlinking
-  #RewriteEngine On
-  #RewriteCond %{HTTP_REFERER} !^$
-  #RewriteCond %{HTTP_REFERER} !^http://(www.)?centralmx.tech/ [nc]
-  #RewriteRule .*.(gif|jpg|png)$ forbidden[nc]
-
   #Deshabilita la ventana de aviso de descarga
   AddType application/octet-stream .pdf
   AddType application/octet-stream .zip
@@ -94,10 +85,10 @@
  #hacemos que no aparezcan los index
  Options -Indexes
 
-#<IfModule mod_rewrite.c>
-#RewriteCond %{HTTPS} off
-#RewriteRule (.*) https://facturacion.central-mx.com/$1 [R=301,L,QSA]
-#</IfModule>
+<IfModule mod_rewrite.c>
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://integrador-technology.mx/$1 [R=301,L,QSA]
+</IfModule>
 
  #RewriteRule ^(cache|includes|logs|tmp)/ - [F]
 
